@@ -1,8 +1,6 @@
-# pdf_dark-mode
- inverts the colors of the page
-
 # installation
- ## open chrome://extensions
+
+## open chrome://extensions
   Open the Extension Management page by navigating to [chrome://extensions](chrome://extensions).
   
   or
@@ -12,12 +10,13 @@
   or
   
   Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
+  
+  <img src="./ext.png" width="500">
 
  ## toggle Developers mode
   Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
  ## select the directory
   Click the Load unpacked button and select the extension directory.
-  ![extension page](./ext.png)
 
  ## you are good to go👍
