@@ -1,4 +1,4 @@
-# Discription
+# Description
 
   simple application of [an answer on reddit](https://www.reddit.com/r/chrome/comments/e3txhi/change_pdfs_to_dark_mode/?utm_source=share&utm_medium=web2x&context=3)
 
