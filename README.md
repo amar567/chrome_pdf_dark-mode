@@ -16,7 +16,7 @@
   
   Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
   
-  <img src="./ext.png" width="500">
+  <img src="./images/ext.png" width="500">
 
  ## toggle Developers mode
   Enable Developer Mode by clicking the toggle switch next to Developer mode.
